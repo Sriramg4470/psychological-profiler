@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+kaggle
+onnx
+numpy
+scikit-learn

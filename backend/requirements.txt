@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+transformers
+numpy
+scipy
+openai
+tritonclient[all]
